@@ -67,7 +67,7 @@ header h1 {
 header p {
     font-family: var(--fonte-padrao);
     color: white;
-    font-size: 2em;
+    font-size: 1em;
     text-align: center;
     padding: 0px;
     text-shadow: 2px 2px 0px rgba(7, 6, 6, 0.363)
