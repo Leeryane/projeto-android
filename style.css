@@ -43,11 +43,9 @@ a.externo::after {
 
 
 header {
-    height: 110px;
+    height: 80px;
     margin: 0px;
-    text-align: center;
-    font-weight: normal;
-    padding-top: 30px;
+    padding: 30px;
     background-image: linear-gradient(to bottom, #5AF97A 0%, 0%, #517A59 0%, 50%, #2b5032 90%);
     box-shadow: 3px 3px 2px rgba(0, 0, 0, 0.315);
     border-radius: 0px;
@@ -56,6 +54,8 @@ header {
 
 header h1 {
     color:white;
+    text-align: center;
+    font-weight: normal;
     font-size: 2em;
     font-family: var(--fonte-destaque);
     font-weight: normal;
